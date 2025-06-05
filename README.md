@@ -21,5 +21,5 @@ App Web Escolar es una aplicación web diseñada para la gestión escolar, que f
 📥 Instalación
 Clona este repositorio:
 
-git clone https://github.com/tu_usuario/tu_repo.git
+git clone https://github.com/LuiMV/schoolar2.git
 
